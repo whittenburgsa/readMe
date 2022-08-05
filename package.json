@@ -1,0 +1,22 @@
+{
+  "name": "potential-enigma",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whittenburgsa/readME.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whittenburgsa/readME/issues"
+  },
+  "homepage": "https://github.com/whittenburgsa/readME#readme",
+  "dependencies": {
+    "inquirer": "6.4"
+  }
+}
